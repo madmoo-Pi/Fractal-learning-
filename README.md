@@ -112,3 +112,6 @@ Run the FractalLearner script to start learning or interacting with the system.
 - `pillow`
 - `soundfile`
 - `speechrecognition`
+- 
+
+this module was used in santic collapse research here https://osf.io/hszrn
