@@ -114,4 +114,4 @@ Run the FractalLearner script to start learning or interacting with the system.
 - `speechrecognition`
 - 
 
-this module was used in santic collapse research here https://osf.io/hszrn
+this module was used in semantic collapse research here https://osf.io/hszrn
